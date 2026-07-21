@@ -94,7 +94,7 @@ blog-layout/
 
 ## Live Demo
 
-🔗 Add your Vercel URL here after deployment.
+🔗 (https://blog-layout-blue.vercel.app/)
 
 ---
 
